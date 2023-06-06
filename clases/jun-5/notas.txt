@@ -1,0 +1,65 @@
+CLUB DE PROGRAMACION COMPETITIVA
+Sesion 1.
+
+1. contenido mínimo (para div2).
+- Estructuras de datos
+  Librerias
+  Implementaciones
+
+- Tecnicas de resolucion de problemas
+  Busqueda completa  (Fuerza Bruta)
+  Busqueda binaria
+  Greedy (algoritmos golosos)
+  Programacion dinamica
+
+- Grafos
+  recorridos DFS y BFS
+  caminos minimos
+  otros
+
+2. Concursos y fechas tentativas.
+
+- Internos UMSA (Div1, Div2)-> problem-set español
+
+* div2 = segunda division (nuevos = aquellos no participaron en ninguna icpc)
+  - Inicios de agosto.
+
+* div1 = primera division (todos)
+  - Una o dos semana despues de div2.
+
+  LUGAR = CARRERA DE INFORMATICA - UMSA
+
+- Nacional (vs. de universidades de bolivia) problem-set ingles, problem-set español
+  1 - 2 de septiembre.
+
+  LUGAR = NO DEFINIDO, UNIVERSIDAD - LA PAZ
+
+- Regionales (Latino) (vs. de universidades latinoamerica) problem-set ingles.
+  20 - 21 de octubre.
+
+  LUGAR = NO DEFINIDO, UNIVERSIDAD - BOLIVIA
+
+- Mundial (international) (vs. de universidad a nivel mundial) problem-set ingles.
+  12 - 17 de noviembre
+
+  LUGAR = DEFINIDO, OTRO PAIS.
+
+3. contest semanales.
+  inicio: lunes 22:00
+  fin: domingo 22:00
+  https://jv.umsa.bo/
+  https://codeforces.com/
+  https://onlinejudge.org/
+
+4. material y bibliografia.
+
+  - Competitive Programming, Steven Halim & Felix Halim, 2010.
+  c++, java, python
+
+  - Introduction to Algorithms, third edition, Thomas Cormer, 2009.
+  Pseudocodigo
+
+  - Fundamentos de Programación Segunda Edición, Jorge Teran Pomier, 2010.
+  Java
+
+  - Introduccion en c++ a la programacion competitiva.
