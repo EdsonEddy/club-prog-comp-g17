@@ -1,0 +1,12 @@
+ == Notas de la clase ==
+
+- Instalar IDE o editor de texto para C++
+- Averiguar entrada con "<" y salida ">" en windows. (flujo de entrada)
+ejemplo: 
+Linux:
+./input1 < ejemplo.txt > salida.txt
+Win:
+...
+
+enlace lectura y salida rapida en c++:
+https://www.geeksforgeeks.org/fast-io-for-competitive-programming/
